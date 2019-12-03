@@ -12,9 +12,4 @@
 
 
 
-//+ (void)load {
-//    [self swiftLoad];
-//}
-
-
 @end
