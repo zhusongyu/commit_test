@@ -1,5 +1,7 @@
 language: swift
 osx_image: xcode11
+cache: cocoapods
 xcode_scheme: RxswiftStudy
-xcode_workspace: RxswiftStudy.xcodeproj
+xcode_workspace: RxswiftStudy.xcworkspace
+
 
