@@ -16,9 +16,7 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        
-        
-        
+         
 //        UIViewController.aspect_hook(<#T##selector: Selector!##Selector!#>, with: <#T##AspectOptions#>, using: <#T##((Any?, [Any]?) -> Void)!##((Any?, [Any]?) -> Void)!##(Any?, [Any]?) -> Void#>)
         
         // Do any additional setup after loading the view.
