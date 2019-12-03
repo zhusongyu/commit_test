@@ -8,13 +8,6 @@
 
 #import "BaseViewController.h"
 
-//class BaseViewController: NSObject {
-//    @objc class func swiftLoad() {
-//        
-//    }
-//    
-//}
-
 @implementation BaseViewController
 
 
