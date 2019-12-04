@@ -4,5 +4,7 @@ cache: cocoapods
 xcode_scheme: RxswiftStudy
 xcode_workspace: RxswiftStudy.xcworkspace
 xcode_destination: platform=iOS Simulator,OS=11.3,name=iPhone X
-
+script:
+- set -o pipefail && xcodebuild -workspace commit_test/RxswiftStudy.xcworkspace -scheme RxswiftStudy -sdk iphonesimulator -destination 'platform=iOS Simulator,name=iPhone 6s,OS=9.3' test | xcpretty
+#- pod lib lint --allow-warnings
 
