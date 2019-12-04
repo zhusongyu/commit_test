@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "3B98A7E92378F9000039DD63"
-               BuildableName = "RxswiftStudy.app"
-               BlueprintName = "RxswiftStudy"
-               ReferencedContainer = "container:RxswiftStudy.xcodeproj">
+               BlueprintIdentifier = "2E12C8C7566C2C355C08C5B506D202D1"
+               BuildableName = "Pods_RxswiftStudy.framework"
+               BlueprintName = "Pods-RxswiftStudy"
+               ReferencedContainer = "container:Pods/Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -28,10 +28,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "2E12C8C7566C2C355C08C5B506D202D1"
-               BuildableName = "Pods_RxswiftStudy.framework"
-               BlueprintName = "Pods-RxswiftStudy"
-               ReferencedContainer = "container:Pods/Pods.xcodeproj">
+               BlueprintIdentifier = "3B98A7E92378F9000039DD63"
+               BuildableName = "RxswiftStudy.app"
+               BlueprintName = "RxswiftStudy"
+               ReferencedContainer = "container:RxswiftStudy.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
