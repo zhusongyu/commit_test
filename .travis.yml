@@ -2,6 +2,6 @@ language: swift
 osx_image: xcode11
 cache: cocoapods
 script:
-- set -o pipefail && xcodebuild -workspace RxswiftStudy.xcworkspace -scheme RxswiftStudy -sdk iphonesimulator -destination 'platform=iOS Simulator,name=iPhone 6s,OS=9.3' test | xcpretty
+- set -o pipefail && xcodebuild -workspace RxswiftStudy.xcworkspace -scheme RxswiftStudy -sdk iphonesimulator -destination 'platform=iOS Simulator,name=iPhone 6s,OS=10.0' test | xcpretty
 #- pod lib lint --allow-warnings
 
